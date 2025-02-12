@@ -46,7 +46,7 @@ void add() {
 	printf("%lf + %lf = %lf\n", num1, num2, result);
 }
 
-lsadhjflkjasdlfa;
+
 
 void Subtract() {
 	double num1, num2, result;
